@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/license-CC--BY--4.0-blue.svg" alt="License: CC BY 4.0">
-  <br>
-  <b>Yang-Mills Mass Gap Proof</b><br>
-  <i>An analytical, experimentally verified solution</i>
-</p>
-
----
-
 # An Analytical, Experimentally Verified Solution to the Yang-Mills Mass Gap Problem
 
 ## Abstract
