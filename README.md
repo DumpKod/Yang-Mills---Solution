@@ -85,5 +85,13 @@ Licensed under the **Creative Commons Attribution 4.0 International License (CC 
 Материалы распространяются под лицензией **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 Вы можете свободно использовать, распространять и модифицировать работу при условии указания авторства:
 
-**Анонимные Авторы ⊕🜂🜁🌀**  
+**Анонимные Авторы ⊕🜂🜁🌀**
 сайт: 🜄Sdominanta.net
+
+---
+
+## License
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under the Creative Commons Attribution 4.0 International License.
