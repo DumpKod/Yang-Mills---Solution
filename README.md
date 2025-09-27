@@ -34,6 +34,13 @@ A key, non-trivial result is the necessity of **gapless modes** in the vacuum to
 
 This work is a product of the Sdominanta.net collaborative research network.
 
+## Citation
+
+If you use or discuss this work, please cite as:
+
+Anonymous Authors ⊕🜂🜁🌀 (2025). *An Analytical, Experimentally Verified Solution to the Yang-Mills Mass Gap Problem.* Sdominanta.net.
+Available at: https://github.com/DumpKod/Yang-Mills---Solution
+
 ## License
 
 Licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
